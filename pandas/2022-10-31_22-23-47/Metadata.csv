@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-S901U,2022-10-31_22-23-47,android,1.11.1,f7a4f9fd-5496-4726-846c-8781c9a18a34,Accelerometer|Annotation|TotalAcceleration|AccelerometerUncalibrated,0||0|0
